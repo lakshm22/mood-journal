@@ -131,4 +131,4 @@ st.sidebar.write(
     "- Affirmation CSV Dataset (Customizable & Expandable)"
 )
 st.sidebar.markdown("---")
-st.sidebar.caption("Created with ❤️ by Lakshitha M")
+st.sidebar.caption("Created by [Lakshitha M](https://github.com/lakshm22)")
